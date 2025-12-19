@@ -12,7 +12,7 @@ Passionate about building scalable solutions and solving complex technical chall
 <p align="left">
 ✨ Creating projects since my first year of engineering<br>
 📚 Currently learning <b>Computer Network Technology</b>, <b>Relational Database Design</b>, and <b>Advanced AI/ML Applications</b><br>
-🎯 Goals: To contribute to impactful projects in <b>AI</b>, <b>Web Development</b>, and <b>Open Source</b><br>
+🎯 Goals: To contribute to impactful projects in <b>AI</b>, <b>Web Development</b>.
 🎲 Fun fact: I enjoy blending creative front-end design with technical back-end logic to create seamless user experiences
 </p>
 
