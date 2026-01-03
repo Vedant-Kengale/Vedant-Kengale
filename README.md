@@ -21,10 +21,10 @@ Passionate about building scalable solutions and solving complex technical chall
 <h2 align="left">👨‍💻 Projects</h2>
 
 <p align="left">
-👨‍💻 Built <b>SecureBank – Bank Management System</b> (HTML, CSS, JS, Bootstrap, Java, JSP, Servlets, JDBC, MySQL)<br>
+👨‍💻 Built <b>SecureBank – Bank Management System</b> (HTML, CSS, JS, JQuery, Bootstrap, Java, JSP, Servlets, JDBC, MySQL)<br>
 • SecureBank is a comprehensive web-based bank management system designed to handle core banking operations including customer management, account services, transaction processing, and loan administration.</br>
 👨‍💻 Developed By Vedant Kengale, Aditya Deore, Pratik Chandane, Suraj Bahirwade in Team<b>Weather Prediction System based on Time Series Data</b> (AI/ML Project)<br>
-👨‍💻 Built <b>Online Smart Pharma Management System</b> (HTML, CSS, JS, Bootstrap, Java, JSP, Servlets, JDBC, MySQL)<br>
+👨‍💻 Built <b>Online Smart Pharma Management System</b> (HTML, CSS, JS, JQuery, Bootstrap, Java, JSP, Servlets, JDBC, MySQL)<br>
 • Developed a Web-based B2B pharmaceutical supply chain management system featuring role-based access for Admin, Manufacturer, and Wholesaler modules. The application streamlines pharmaceutical distribution by enabling admin-controlled user verification, product catalog management by manufacturers, and seamless procurement by wholesalers with real-time order tracking capabilities.</br>
 </p>
 
@@ -49,6 +49,8 @@ Passionate about building scalable solutions and solving complex technical chall
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
   <img width="12" />
