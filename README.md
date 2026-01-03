@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 I'm Vedant Kengale</h1>
 
 <p align="left">
-I'm an Information Technology student at <b>PCCOE</b><b>|</b> passionate about Dynamic and self-motivated IT student with a strong foundation in <b>Full-Stack Java development</b>, <b>data structures and algorithms</b> and <b>AI/ML-based solutions</b>.
+I'm an Information Technology student at <b>PCCOE</b><b>|</b> Passionate about Dynamic and self-motivated IT student with a strong foundation in <b>Full-Stack Java development</b>, <b>data structures and algorithms</b> and <b>AI/ML-based solutions</b>.
 Passionate about building scalable solutions and solving complex technical challenges. Seeking software engineering opportunities to contribute innovative ideas, collaborate with talented teams, and drive impactful projects using cutting-edge technologies.
 </p>
 
