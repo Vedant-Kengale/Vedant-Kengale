@@ -24,6 +24,8 @@ Passionate about building scalable solutions and solving complex technical chall
 👨‍💻 Built <b>SecureBank – Bank Management System</b> (HTML, CSS, JS, Bootstrap, Java, JSP, Servlets, JDBC, MySQL)<br>
 • SecureBank is a comprehensive web-based bank management system designed to handle core banking operations including customer management, account services, transaction processing, and loan administration.</br>
 👨‍💻 Developed By Vedant Kengale, Aditya Deore, Pratik Chandane, Suraj Bahirwade in Team<b>Weather Prediction System based on Time Series Data</b> (AI/ML Project)<br>
+👨‍💻 Built <b>Online Smart Pharma Management System</b> (HTML, CSS, JS, Bootstrap, Java, JSP, Servlets, JDBC, MySQL)<br>
+• Developed a Web-based B2B pharmaceutical supply chain management system featuring role-based access for Admin, Manufacturer, and Wholesaler modules. The application streamlines pharmaceutical distribution by enabling admin-controlled user verification, product catalog management by manufacturers, and seamless procurement by wholesalers with real-time order tracking capabilities.</br>
 </p>
 
 ---
