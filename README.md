@@ -79,6 +79,10 @@ Team project based on time-series data analysis.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" height="40" alt="jQuery logo" />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="AJAX" />
+  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -144,25 +148,25 @@ Team project based on time-series data analysis.
 
 <!-- Main Stats & Top Languages -->
 <div align="center">
-  <a href="https://github.com/Vedant-kengale">
+  <a href="https://github.com/Vedant-Kengale">
     <img src="https://github-readme-stats.vercel.app/api?username=Vedant-kengale&show_icons=true&theme=radical" height="180" alt="GitHub stats graph" />
   </a>
   <br/>
-  <a href="https://github.com/Vedant-kengale">
+  <a href="https://github.com/Vedant-Kengale">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-kengale&layout=compact&theme=radical" height="180" alt="Top languages graph" />
   </a>
 </div>
 
 <!-- Streak Stats -->
 <div align="center">
-  <a href="https://github.com/Vedant-kengale">
+  <a href="https://github.com/Vedant-Kengale">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant-kengale&theme=radical" height="180" alt="GitHub streak graph" />
   </a>
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
-  <a href="https://github.com/Vedant-kengale">
+  <a href="https://github.com/Vedant-Kengale">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant-kengale&theme=radical&area=true&hide_border=true" width="100%" height="250" alt="GitHub activity graph" />
   </a>
 </div>
