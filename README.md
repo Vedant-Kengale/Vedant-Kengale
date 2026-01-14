@@ -48,8 +48,9 @@ A full-stack banking system handling customer management, transactions, and loan
 </p>
 
 <p align="left">
-<b>MealMate – Mess Management System</b><br>
-Designed and developed as part of CEP review with focus on database normalization and backend logic.
+<b>Online Smart Pharma Management System App</b><br>
+Tech: Java, JSP, Servlets, JDBC, MySQL, HTML, CSS, Bootstrap<br>
+A web-based pharma application for managing medicines, inventory, orders, and customer operations efficiently.
 </p>
 
 <p align="left">
