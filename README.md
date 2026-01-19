@@ -165,7 +165,7 @@ Team project based on time-series data analysis.
 
 <!-- Activity Graph -->
 <div align="center">
-  <a href="https://github.com/Vedant-Kengale">
+  <a href="https://git.io/streak-stats">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant-kengale&theme=radical&area=true&hide_border=true" width="100%" height="250" alt="GitHub activity graph" />
   </a>
 </div>
