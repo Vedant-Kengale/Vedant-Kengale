@@ -158,8 +158,8 @@ Team project based on time-series data analysis.
 
 <!-- Streak Stats -->
 <div align="center">
-  <a href="https://github.com/Vedant-Kengale">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant-kengale&theme=radical" height="180" alt="GitHub streak graph" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Vedant-Kengale&theme=dark" alt="GitHub Streak" height="180" alt="GitHub streak graph" />
   </a>
 </div>
 
