@@ -159,7 +159,7 @@ Team project based on time-series data analysis.
 <!-- Streak Stats -->
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Vedant-Kengale&theme=dark" alt="GitHub Streak" height="180" alt="GitHub streak graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Vedant-Kengale&show_icons=true&theme=dark" alt="GitHub streak graph" height="180" />
   </a>
 </div>
 
