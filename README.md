@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 I am Vedant Kengale</h1>
 
 <p align="left">
-I'm an Information Technology student at <b>PCCOE </b><b>|</b> passionate about <b>Full-Stack Development</b>Backend-focused Information Technology student at <b>PCCOE</b> |
+I'm an Information Technology student at <b>PCCOE </b><b>|</b> passionate about <b>Full-Stack Development</b> Backend-focused Information Technology student at <b>PCCOE</b> |
 Aspiring <b>Open Source Contributor</b> preparing for <b>Google Summer of Code (GSoC)</b>..
 </p>
 
