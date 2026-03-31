@@ -54,7 +54,7 @@ A web-based pharma application for managing medicines, inventory, orders, and cu
 </p>
 
 <p align="left">
-<b>Weather Prediction System (AI/ML)</b><br>
+<b>Future Weather Prediction Model Using Machine Learning LSTM Model (AI/ML)</b><br>
 Team project based on time-series data analysis.
 </p>
 
