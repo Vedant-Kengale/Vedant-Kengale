@@ -60,7 +60,7 @@ Team project based on time-series data analysis.
 
 <p align="left">
 <b>Smart Contact Manager</b><br>
-Tech Stack: Java, Spring Boot, Spring MVC, Spring Security, Spring Data JPA (Hibernate), Thymeleaf, MySQL, HTML5, CSS3, Bootstrap, JavaScript, Maven.
+Tech Stack: Java, Spring Boot, Spring MVC, Spring Security, Spring Data JPA (Hibernate), Thymeleaf, MySQL, HTML5, CSS3, Bootstrap, JavaScript.
 Smart Contact Manager is a secure full stack web application built with Spring Boot that enables users to efficiently manage their personal contacts. It features user authentication and authorization with Spring Security, contact CRUD operations, profile management, image uploads, search functionality, and a responsive interface. The project is developed using Java, Spring Boot, Spring Data JPA, Hibernate, Thymeleaf, MySQL, Bootstrap, and Maven, demonstrating modern backend development, database integration, and secure web application practices.
 </p>
 
