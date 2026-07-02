@@ -165,13 +165,13 @@ Smart Contact Manager is a secure full stack web application built with Spring B
 <!-- Streak Stats -->
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vedant-Kengale&show_icons=true&theme=dark" alt="GitHub streak graph" height="180" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Vedant-Kengale&show_icons=true&theme=radical" height="180" alt="GitHub stats graph" />
   </a>
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant-kengale&theme=radical&area=true&hide_border=true" width="100%" height="250" alt="GitHub activity graph" />
+    <img src="https://streak-stats.demolab.com/?user=Vedant-Kengale&theme=radical" alt="GitHub streak graph" height="180" />
   </a>
 </div>
