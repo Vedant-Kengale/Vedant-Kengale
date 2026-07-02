@@ -58,6 +58,11 @@ A web-based pharma application for managing medicines, inventory, orders, and cu
 Team project based on time-series data analysis.
 </p>
 
+<p align="left">
+<b>Smart Contact Manager</b><br><br>
+Smart Contact Manager is a secure full stack web application built with Spring Boot that enables users to efficiently manage their personal contacts. It features user authentication and authorization with Spring Security, contact CRUD operations, profile management, image uploads, search functionality, and a responsive interface. The project is developed using Java, Spring Boot, Spring Data JPA, Hibernate, Thymeleaf, MySQL, Bootstrap, and Maven, demonstrating modern backend development, database integration, and secure web application practices. 
+</p>
+
 <hr/>
 
 <h2 align="left">🏆 Achievements</h2>
