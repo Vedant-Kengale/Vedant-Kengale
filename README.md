@@ -154,11 +154,11 @@ Smart Contact Manager is a secure full stack web application built with Spring B
 <!-- Main Stats & Top Languages -->
 <div align="center">
   <a href="https://github.com/Vedant-Kengale">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vedant-Kengale&show_icons=true&theme=radical" height="180" alt="GitHub stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Vedant-kengale&show_icons=true&theme=radical" height="180" alt="GitHub stats graph" />
   </a>
   <br/>
   <a href="https://github.com/Vedant-Kengale">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Kengale&layout=compact&theme=radical" height="180" alt="Top languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-kengale&layout=compact&theme=radical" height="180" alt="Top languages graph" />
   </a>
 </div>
 
