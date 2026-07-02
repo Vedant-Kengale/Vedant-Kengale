@@ -154,24 +154,24 @@ Smart Contact Manager is a secure full stack web application built with Spring B
 <!-- Main Stats & Top Languages -->
 <div align="center">
   <a href="https://github.com/Vedant-Kengale">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vedant-kengale&show_icons=true&theme=radical" height="180" alt="GitHub stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Vedant-Kengale&show_icons=true&theme=radical" height="180" alt="GitHub stats graph" />
   </a>
   <br/>
   <a href="https://github.com/Vedant-Kengale">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-kengale&layout=compact&theme=radical" height="180" alt="Top languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Kengale&layout=compact&theme=radical" height="180" alt="Top languages graph" />
   </a>
 </div>
 
-<!-- Streak Stats -->
+<!-- Streak Stats (fixed: correct API + maintained fork) -->
 <div align="center">
-  <a href="https://git.io/streak-stats">
-   <img src="https://github-readme-stats.vercel.app/api?username=Vedant-Kengale&show_icons=true&theme=radical" height="180" alt="GitHub stats graph" />
+  <a href="https://github.com/Vedant-Kengale">
+    <img src="https://streak-stats.demolab.com/?user=Vedant-Kengale&theme=radical" alt="GitHub streak graph" height="180" />
   </a>
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Vedant-Kengale&theme=radical" alt="GitHub streak graph" height="180" />
+  <a href="https://github.com/Vedant-Kengale">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant-Kengale&theme=radical&area=true&hide_border=true" width="100%" height="250" alt="GitHub activity graph" />
   </a>
 </div>
