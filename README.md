@@ -106,6 +106,21 @@ _Click on each project to expand for details and a link to the repository._
   <br>
 </details>
 
+<br>
+
+<details>
+  <summary><strong>5. Smart Contact Manager System</strong></summary>
+  <br>
+  <p>NexaShop is a responsive e-commerce landing website designed to deliver a smooth and modern shopping experience. The application features product showcases, category browsing, promotional sections, service highlights, blog cards, and brand collaborations through a clean and scalable UI.
+This project was developed for learning, practice, portfolio building, and frontend development enhancement.</p>
+  <strong>&nbsp;&nbsp;&nbsp;↳ Technologies:</strong> React.js, Tailwind CSS, JavaScript (ES6+), Vite, VS Code, Git & GitHub, Vercel Deployment
+  <br><br>
+  <a href="https://github.com/Vedant-Kengale/React-Ecommerce-website-project" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Code%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+  </a>
+  <br>
+</details>
+
 <hr/>
 
 <h2 align="left">🏆 Achievements</h2>
