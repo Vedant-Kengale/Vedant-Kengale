@@ -181,14 +181,6 @@ This project was developed for learning, practice, portfolio building, and front
 
 ---
 
-🐍 Snake Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Vedant-Kengale/Vedant-Kengale/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
-
 🎯 Current Focus
 Strengthening backend engineering with Java and Spring Boot
 Building secure and scalable web applications
