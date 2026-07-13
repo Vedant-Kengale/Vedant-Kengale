@@ -222,20 +222,16 @@ This project was developed for learning, practice, portfolio building, and front
 
 <div align="center">
 
-<a href="https://www.hackerrank.com/profile/YOUR_USERNAME">
+<a href="https://www.hackerrank.com/profile/vedantkengale96">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_USERNAME">
+<a href="https://leetcode.com/u/Vedant_Kengale/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.codechef.com/users/YOUR_USERNAME">
+<a href="https://www.codechef.com/users/vedant_k56">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 </div>
