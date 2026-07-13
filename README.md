@@ -92,6 +92,8 @@ _Click on each project to expand for details and a link to the repository._
   <br>
 </details>
 
+<br>
+
 <details>
   <summary><strong>4. Smart Contact Manager System</strong></summary>
   <br>
