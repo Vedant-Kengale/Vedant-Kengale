@@ -196,9 +196,11 @@ This project was developed for learning, practice, portfolio building, and front
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vedant-Kengale&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Vedant-Kengale&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Kengale&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Kengale&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
