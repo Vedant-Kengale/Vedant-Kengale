@@ -142,7 +142,7 @@ _Click on each project to expand for details and a link to the repository._
 <br>
 
 <details>
-  <summary><strong>5. Smart Contact Manager System</strong></summary>
+  <summary><strong>5. NexaShop - Ecommerce Website (React JS Project) </strong></summary>
   <br>
   <p>NexaShop is a responsive e-commerce landing website designed to deliver a smooth and modern shopping experience. The application features product showcases, category browsing, promotional sections, service highlights, blog cards, and brand collaborations through a clean and scalable UI.
 This project was developed for learning, practice, portfolio building, and frontend development enhancement.</p>
