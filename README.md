@@ -1,3 +1,13 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Vedant%20Kengale&fontSize=46&fontAlignY=38&desc=Backend%20Focused%20IT%20Student%20|%20Java%20|%20Spring%20Boot%20|%20AI%2FML&descAlignY=58&descAlign=50&color=0:1b0033,100:4b1d7a&fontColor=ffffff" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B388FF&center=true&vCenter=true&width=700&lines=Backend-focused+Information+Technology+student;Building+scalable+web+applications+with+Java+and+Spring+Boot;Passionate+about+clean+code%2C+APIs%2C+and+system+reliability;Exploring+AI%2FML%2C+image+processing%2C+and+problem+solving" alt="Typing SVG" />
+
+</div>
+
+---
+
 <h1 align="left">Hey 👋 I am Vedant Kengale</h1>
 
 <p align="left">
@@ -192,3 +202,12 @@ This project was developed for learning, practice, portfolio building, and front
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant-Kengale&theme=radical&area=true&hide_border=true" width="100%" height="250" alt="GitHub activity graph" />
   </a>
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:4b1d7a,100:1b0033" width="100%" />
+
+</div>
+
