@@ -1,8 +1,7 @@
 <h1 align="left">Hey 👋 I am Vedant Kengale</h1>
 
 <p align="left">
-I'm an Information Technology student at <b>PCCOE </b><b>|</b> passionate about <b>Full-Stack Development</b> Backend-focused Information Technology student at <b>PCCOE</b> |
-Aspiring <b>Open Source Contributor</b> preparing for <b>Google Summer of Code (GSoC)</b>..
+I'm an Information Technology student at <b>PCCOE </b><b>|</b> passionate about <b>Full-Stack Development</b> Backend-focused Information Technology student at <b>PCCOE</b>.
 </p>
 
 <hr/>
@@ -34,44 +33,6 @@ Aspiring <b>Open Source Contributor</b> preparing for <b>Google Summer of Code (
 
 <hr/>
 
-<h2 align="left">🧩 Key Projects</h2>
-
-<p align="left">
-<b>SecureBank – Bank Management System</b><br>
-Tech: Java, JSP, Servlets, JDBC, MySQL, HTML, CSS, Bootstrap<br>
-A full-stack banking system handling customer management, transactions, and loans with proper DB design.
-</p>
-
-<p align="left">
-<b>Online Smart Pharma Management System App</b><br>
-Tech: Java, JSP, Servlets, JDBC, MySQL, HTML, CSS, Bootstrap<br>
-A web-based pharma application for managing medicines, inventory, orders, and customer operations efficiently.
-</p>
-
-<p align="left">
-<b>Future Weather Prediction Model Using Machine Learning LSTM Model (AI/ML)</b><br>
-Team project based on time-series data analysis.
-</p>
-
-<p align="left">
-<b>Smart Contact Manager</b><br>
-Tech Stack: Java, Spring Boot, Spring MVC, Spring Security, Spring Data JPA (Hibernate), Thymeleaf, MySQL, HTML5, CSS3, Bootstrap, JavaScript.
-Smart Contact Manager is a secure full stack web application built with Spring Boot that enables users to efficiently manage their personal contacts. It features user authentication and authorization with Spring Security, contact CRUD operations, profile management, image uploads, search functionality, and a responsive interface. The project is developed using Java, Spring Boot, Spring Data JPA, Hibernate, Thymeleaf, MySQL, Bootstrap, and Maven, demonstrating modern backend development, database integration, and secure web application practices.
-</p>
-
-<hr/>
-
-<h2 align="left">🏆 Achievements</h2>
-
-<p align="left">
-🏆 <b>Achieved 3⭐ in Problem Solving on HackerRank (200+ problems solved).<br>
-🏆 Developed <b>MealMate: Mess Management System</b> as part of CEP review project.<br>
-🏆 <b>Certified in C++ Programming by HackerRank.<br>
-🏆 Participated in <b>Smart India Hackathon 2025 with Team – AgroOptimizer with an AI-powered Farming Assistant.
-</p>
-
----
-
 ### 🛠️ Core Technical Skills
 
 <div>
@@ -86,15 +47,63 @@ Smart Contact Manager is a secure full stack web application built with Spring B
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </div>
 
+
+### 🚀 Key Projects
+
+_Click on each project to expand for details and a link to the repository._
+
+<details>
+  <summary><strong>1. Smart Contact Manager (Spring Boot Application)</strong></summary>
+  <br>
+  <p>A secure, full-stack web app for managing personal contacts, featuring role-based authentication with Spring Security, CRUD operations, and a responsive UI. This project demonstrates a comprehensive understanding of the Spring ecosystem.</p>
+  <strong>&nbsp;&nbsp;&nbsp;↳ Technologies:</strong> Spring Boot, Spring Security, JPA/Hibernate, MySQL, Thymeleaf
+  <br><br>
+  <a href="https://github.com/Vedant-Kengale/Smart-Contact-Manager-App" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Code%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+  </a>
+  <br>
+</details>
+
+<br>
+
+<details>
+  <summary><strong>2. Online Smart Pharma System (Core Java Application)</strong></summary>
+  <br>
+  <p>A B2B web application for managing pharmaceutical inventory and orders, built from the ground up with core Java fundamentals to demonstrate a strong grasp of MVC architecture, JDBC, and Servlet-based web development.</p>
+  <strong>&nbsp;&nbsp;&nbsp;↳ Technologies:</strong> Core Java, JDBC, JSP & Servlets, MySQL, HTML/CSS
+  <br><br>
+  <a href="https://github.com/Vedant-Kengale/Online-Smart-Pharma-Management-System" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Code%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+  </a>
+  <br>
+</details>
+
+<br>
+
+<details>
+  <summary><strong>3. E-Library Management System (REST API)</strong></summary>
+  <br>
+  <p>A RESTful backend service for a library system, designed with Spring Boot to handle book catalogs, user management, and borrow/return workflows. This project focuses on clean API design and efficient database interaction using JPA.</p>
+  <strong>&nbsp;&nbsp;&nbsp;↳ Technologies:</strong> Spring Boot, REST API, JPA/Hibernate, MySQL
+  <br><br>
+  <a href="https://github.com/Vedant-Kengale/E-Library-Management-System" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Code%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+  </a>
+  <br>
+</details>
+
 <hr/>
 
-<h2 align="left">🏆 Highlights</h2>
+<h2 align="left">🏆 Achievements</h2>
 
-<ul>
-  <li>⭐ 3-Star Problem Solving on HackerRank (200+ problems)</li>
-  <li>🎓 Certified in C++ Programming (HackerRank)</li>
-  <li>🏁 Participated in Smart India Hackathon 2025</li>
-</ul>
+<p align="left">
+🏆 <b>Achieved 3⭐ in Problem Solving on HackerRank (200+ problems solved).<br>
+🏆 Developed <b>MealMate: Mess Management System</b> as part of CEP review project.<br>
+🏆 <b>Certified in C++ Programming by HackerRank.<br>
+🏆 Participated in <b>Smart India Hackathon 2025 with Team – AgroOptimizer with an AI-powered Farming Assistant.
+</p>
+
+---
 
 <hr/>
 
