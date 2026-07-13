@@ -10,10 +10,9 @@ Aspiring <b>Open Source Contributor</b> preparing for <b>Google Summer of Code (
 <h2 align="left">💫 About me</h2>
 
 <p align="left">
-I enjoy working on <b>backend systems</b>, <b>databases</b>, and <b>scalable web applications</b>.
-I am actively preparing for <b>Google Summer of Code</b> by contributing to open-source projects,
-learning large codebases, and collaborating with developer communities.
-🎲 Fun fact: I enjoy blending creative front-end design with technical back-end logic to create seamless user experiences
+  Final-year Information Technology student specializing in <b>Backend Development</b>. Passionate about building scalable, efficient web applications using Java, Spring Boot, and SQL. Committed to writing clean code and solving complex problems.
+  🎲 Fun fact: I enjoy blending creative front-end design with technical back-end logic to create seamless user experiences
+  <b>Current Focus:</b> Backend-heavy open-source projects involving APIs, databases, and system reliability.
 </p>
 
 <ul>
@@ -24,18 +23,14 @@ learning large codebases, and collaborating with developer communities.
 
 <hr/>
 
-<h2 align="left">🌱 Open Source & GSoC Preparation</h2>
-
-<p align="left">
-✔ Actively learning open-source workflows (Git, PRs, reviews)<br>
-✔ Exploring Java & Python-based OSS projects<br>
-✔ Preparing long-term for <b>Google Summer of Code 2026</b><br>
-✔ Focused on meaningful contributions over cosmetic commits
-</p>
-
-<p align="left">
-<b>Current Focus:</b> Backend-heavy open-source projects involving APIs, databases, and system reliability.
-</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/vedant-kengale" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vedantkengale96@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
 <hr/>
 
@@ -77,28 +72,18 @@ Smart Contact Manager is a secure full stack web application built with Spring B
 
 ---
 
-<h2 align="left">🛠️ Technical Skill</h2>
+### 🛠️ Core Technical Skills
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" height="40" alt="jQuery logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+<div>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </div>
 
 <hr/>
