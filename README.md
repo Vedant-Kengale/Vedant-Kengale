@@ -17,7 +17,6 @@ I'm an Information Technology student at <b>PCCOE </b><b>|</b> passionate about 
 <ul>
   <li>🔧 Strong interest in backend engineering & system design</li>
   <li>📚 Currently deepening knowledge in Computer Networks, DBMS, and backend frameworks</li>
-  <li>🎯 Goal: Become a consistent open-source contributor and GSoC contributor</li>
 </ul>
 
 <hr/>
