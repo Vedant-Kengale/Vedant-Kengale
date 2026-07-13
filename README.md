@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Vedant%20Kengale&fontSize=46&fontAlignY=38&desc=Backend%20Focused%20IT%20Student%20|%20Java%20|%20Spring%20Boot%20|%20AI%2FML&descAlignY=58&descAlign=50&color=0:1b0033,100:4b1d7a&fontColor=ffffff" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B388FF&center=true&vCenter=true&width=700&lines=Backend-focused+Information+Technology+student;Building+scalable+web+applications+with+Java+and+Spring+Boot;Passionate+about+clean+code%2C+APIs%2C+and+system+reliability;Exploring+AI%2FML%2C+image+processing%2C+and+problem+solving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B388FF&center=true&vCenter=true&width=700&lines=Backend-focused+Information+Technology+student;Building+scalable+web+applications+with+Java+and+Spring+Boot;Passionate+about+clean+code%2C+APIs%2C+and+system+reliability;Exploring+AI%2FML%2C+image+processing+and+problem+solving" alt="Typing SVG"/>
 
 </div>
 
@@ -29,35 +29,57 @@ I'm an Information Technology student at <b>PCCOE </b><b>|</b> passionate about 
   <li>📚 Currently deepening knowledge in Computer Networks, DBMS, and backend frameworks</li>
 </ul>
 
-<hr/>
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/vedant-kengale" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:vedantkengale96@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+# 🚀 What I Bring
+
+- 💻 Backend Engineering
+- ⚙ REST API Development
+- 🗄 Database Design
+- ☕ Java Ecosystem
+- 🤖 AI & Machine Learning
+- 📚 Data Structures & Algorithms
+- 🌱 Open Source Learning
+
+---
+
+# 🛠 Core Technical Skills
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </div>
 
-<hr/>
+---
 
-### 🛠️ Core Technical Skills
+# 🧠 AI / ML
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<div align="center">
+
+<img src="https://img.shields.io/badge/OpenCV-5C2D91?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
 </div>
+
+---
 
 ### 🚀 Key Projects
 
@@ -138,7 +160,6 @@ This project was developed for learning, practice, portfolio building, and front
 
 <p align="left">
 🏆 <b>Achieved 3⭐ in Problem Solving on HackerRank (200+ problems solved).<br>
-🏆 Developed <b>MealMate: Mess Management System</b> as part of CEP review project.<br>
 🏆 <b>Certified in C++ Programming by HackerRank.<br>
 🏆 Participated in <b>Smart India Hackathon 2025 with Team – AgroOptimizer with an AI-powered Farming Assistant.
 </p>
@@ -171,60 +192,114 @@ This project was developed for learning, practice, portfolio building, and front
 
 ---
 
-🧩 Coding Profiles
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://www.hackerrank.com/" target="_blank"> <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /> </a> <a href="https://leetcode.com/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> <a href="https://www.codechef.com/" target="_blank"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /> </a> <a href="https://codeforces.com/" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /> </a>
+<img src="https://github-readme-stats.vercel.app/api?username=Vedant-Kengale&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Kengale&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Vedant-Kengale&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant-Kengale&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-🎯 Current Focus
-Strengthening backend engineering with Java and Spring Boot
-Building secure and scalable web applications
-Improving DBMS, Computer Networks, and system design fundamentals
-Expanding into AI/ML and image processing
-Staying consistent with DSA and coding practice
+# 📅 GitHub Contribution Calendar
 
-<h2 align="left">📬 Connect with me</h2>
+<div align="center">
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/vedant-kengale" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:vedantkengale96@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+<img src="https://ghchart.rshah.org/7B68EE/Vedant-Kengale" width="100%" alt="Contribution Calendar"/>
+
 </div>
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
+# 🐍 Contribution Snake
 
-<!-- Streak Stats (fixed: correct API + maintained fork) -->
 <div align="center">
-  <a href="https://github.com/Vedant-Kengale">
-    <img src="https://streak-stats.demolab.com/?user=Vedant-Kengale&theme=radical" alt="GitHub streak graph" height="180" />
-  </a>
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Vedant-Kengale/Vedant-Kengale/output/github-contribution-grid-snake-dark.svg"/>
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Vedant-Kengale/Vedant-Kengale/output/github-contribution-grid-snake.svg"/>
+
+<img alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/Vedant-Kengale/Vedant-Kengale/output/github-contribution-grid-snake-dark.svg"/>
+
+</picture>
+
 </div>
 
-<!-- Activity Graph -->
+---
+
+# 💻 Coding Profiles
+
 <div align="center">
-  <a href="https://github.com/Vedant-Kengale">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant-Kengale&theme=radical&area=true&hide_border=true" width="100%" height="250" alt="GitHub activity graph" />
-  </a>
+
+<a href="https://www.hackerrank.com/profile/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/users/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+- Backend Engineering
+- Spring Boot
+- System Design
+- AI / ML
+- REST APIs
+- DSA
+
+---
+
+# 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vedant-kengale">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vedantkengale96@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:4b1d7a,100:1b0033" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:4b1d7a,100:1b0033" width="100%"/>
 
 </div>
-
