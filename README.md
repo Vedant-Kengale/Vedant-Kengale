@@ -92,6 +92,18 @@ _Click on each project to expand for details and a link to the repository._
   <br>
 </details>
 
+<details>
+  <summary><strong>4. Smart Contact Manager System</strong></summary>
+  <br>
+  <p>A secure and responsive full stack web application built with Spring Boot that enables users to efficiently manage their personal contacts. The application provides secure authentication, contact management, profile management, image uploads, and a clean user-friendly interface. It demonstrates modern Java backend development using the Spring ecosystem along with database integration and secure web application practices.</p>
+  <strong>&nbsp;&nbsp;&nbsp;↳ Technologies:</strong> Java, Spring Boot, Spring MVC, Spring Security, Spring Data JPA (Hibernate), Thymeleaf, Bootstrap, JavaScript, JQuery, MySQL, Maven
+  <br><br>
+  <a href="https://github.com/Vedant-Kengale/Smart-Contact-Manager-System" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Code%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+  </a>
+  <br>
+</details>
+
 <hr/>
 
 <h2 align="left">🏆 Achievements</h2>
