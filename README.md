@@ -145,21 +145,6 @@ _Click on each project to expand for details and a link to the repository._
 
 <h2 align="left">📊 GitHub Stats</h2>
 
-<!-- Main Stats & Top Languages - Responsive Fixed -->
-<div align="center">
-
-  <a href="https://github.com/Vedant-Kengale">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vedant-Kengale&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" alt="GitHub stats graph" />
-  </a>
-
-  <br/>
-
-  <a href="https://github.com/Vedant-Kengale">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Kengale&layout=compact&theme=radical&hide_border=true&count_private=true" width="400" alt="Top languages graph" />
-  </a>
-
-</div>
-
 <!-- Streak Stats (fixed: correct API + maintained fork) -->
 <div align="center">
   <a href="https://github.com/Vedant-Kengale">
