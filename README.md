@@ -171,6 +171,31 @@ This project was developed for learning, practice, portfolio building, and front
 
 ---
 
+🧩 Coding Profiles
+
+<div align="center">
+
+<a href="https://www.hackerrank.com/" target="_blank"> <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /> </a> <a href="https://leetcode.com/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> <a href="https://www.codechef.com/" target="_blank"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /> </a> <a href="https://codeforces.com/" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /> </a>
+
+</div>
+
+---
+
+🐍 Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Vedant-Kengale/Vedant-Kengale/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+🎯 Current Focus
+Strengthening backend engineering with Java and Spring Boot
+Building secure and scalable web applications
+Improving DBMS, Computer Networks, and system design fundamentals
+Expanding into AI/ML and image processing
+Staying consistent with DSA and coding practice
+
 <h2 align="left">📬 Connect with me</h2>
 
 <div align="left">
