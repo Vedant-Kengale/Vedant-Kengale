@@ -43,7 +43,7 @@ I'm an Information Technology student at <b>PCCOE </b><b>|</b> passionate about 
 
 ---
 
-# 🛠 Core Technical Skills
+## 🛠 Core Technical Skills
 
 <div align="center">
 
