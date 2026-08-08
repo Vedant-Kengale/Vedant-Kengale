@@ -196,10 +196,6 @@ This project was developed for learning, practice, portfolio building, and front
 
 ---
 
-<hr/>
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
