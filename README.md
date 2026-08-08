@@ -158,7 +158,7 @@ _Click on each project to expand for details and a link to the repository._
 <br>
 
 <details>
-  <summary><strong>4. Smart Contact Manager System</strong></summary>
+  <summary><strong>4. Smart Contact Manager System (SpringBoot Project)</strong></summary>
   <br>
   <p>A secure and responsive full stack web application built with Spring Boot that enables users to efficiently manage their personal contacts. The application provides secure authentication, contact management, profile management, image uploads, and a clean user-friendly interface. It demonstrates modern Java backend development using the Spring ecosystem along with database integration and secure web application practices.</p>
   <strong>&nbsp;&nbsp;&nbsp;↳ Technologies:</strong> Java, Spring Boot, Spring MVC, Spring Security, Spring Data JPA (Hibernate), Thymeleaf, Bootstrap, JavaScript, JQuery, MySQL, Maven
