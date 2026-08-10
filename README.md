@@ -234,9 +234,9 @@ This project was developed for learning, practice, portfolio building, and front
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.codechef.com/users/vedant_k56">
+<!--a href="https://www.codechef.com/users/vedant_k56">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+</a-->
 
 </div>
 
